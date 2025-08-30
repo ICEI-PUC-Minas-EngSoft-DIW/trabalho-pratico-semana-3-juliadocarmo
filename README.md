@@ -24,6 +24,6 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ![Primeira Imagem do site](/public/imagemsite1.png)
 
-![Segunda Imagem do site](//public/imagemsite2.png)
+![Segunda Imagem do site](/public/imagemsite2.png)
 
 ![Terceira Imagem do site](/public/imagemsite3.png)
